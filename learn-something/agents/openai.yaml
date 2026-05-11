@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn Something"
+  short_description: "Story prompts for niche counterintuitive principles"
+  default_prompt: "Use $learn-something to teach me one obscure but useful principle through a story."
