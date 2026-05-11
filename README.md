@@ -4,6 +4,12 @@ A tiny Codex skill that teaches one obscure, useful, counterintuitive idea throu
 
 The skill randomly picks from your preferred disciplines, tells a story without naming the principle first, then reveals the principle and explains why the story illustrates it.
 
+## Who This Is For
+
+Use this if you want your AI agent to occasionally teach you a useful idea that feels slightly off the beaten path: not trivia, not a textbook intro, but the kind of principle a late graduate student or thoughtful practitioner might know.
+
+Keywords: Codex skill, AI skill, prompt skill, learning prompt, story-based learning, counterintuitive ideas, obscure principles.
+
 ## Install
 
 Copy the skill folder into your Codex skills directory:
