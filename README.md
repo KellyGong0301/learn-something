@@ -1,14 +1,16 @@
 # Learn Something
 
-A tiny Codex skill that teaches one obscure, useful, counterintuitive idea through a short story.
+A tiny Codex skill for learning something while you wait.
 
-The skill randomly picks from your preferred disciplines, tells a story without naming the principle first, then reveals the principle and explains why the story illustrates it.
+When your agent is busy, or when you are just a little bored, invoke this skill and get one short story that quietly teaches an obscure, useful, counterintuitive idea. It is meant for the small idle moments between bigger tasks: a lightweight way to pick up a principle you probably would not meet in an intro class.
 
 ## Who This Is For
 
-Use this if you want your AI agent to occasionally teach you a useful idea that feels slightly off the beaten path: not trivia, not a textbook intro, but the kind of principle a late graduate student or thoughtful practitioner might know.
+Use this when you are waiting for an agent response, watching a long command run, taking a tiny break, or want your AI workspace to occasionally hand you a worthwhile idea instead of more noise.
 
-Keywords: Codex skill, AI skill, prompt skill, learning prompt, story-based learning, counterintuitive ideas, obscure principles.
+The skill randomly picks from your preferred disciplines, tells a story without naming the principle first, then reveals the principle and explains why the story illustrates it.
+
+Keywords: Codex skill, AI skill, prompt skill, learning while waiting, idle learning, story-based learning, counterintuitive ideas, obscure principles.
 
 ## Install
 
