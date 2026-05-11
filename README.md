@@ -1,5 +1,7 @@
 # Learn Something
 
+[中文说明](README.zh-CN.md)
+
 A tiny agent skill for learning something while you wait.
 
 When your AI agent is busy, or when you are just a little bored, invoke this skill and get one short story that quietly teaches an obscure, useful, counterintuitive idea. It is meant for the small idle moments between bigger tasks: a lightweight way to pick up a principle you probably would not meet in an intro class.
@@ -10,7 +12,7 @@ Use this when you are waiting for an agent response, watching a long command run
 
 The skill randomly picks from your preferred disciplines, tells a story without naming the principle first, then reveals the principle and explains why the story illustrates it.
 
-It is designed to be portable across mainstream coding/agent environments that can load Markdown-based skills or custom instructions, including Codex, Claude Code, OpenClaw, Hermes, and similar agents.
+It is designed to be portable across mainstream coding and agent environments that can load Markdown-based skills or custom instructions, including Codex, Claude Code, OpenClaw, Hermes, and similar agents.
 
 Keywords: agent skill, AI skill, prompt skill, Codex skill, Claude Code skill, OpenClaw skill, Hermes skill, learning while waiting, idle learning, story-based learning, counterintuitive ideas, obscure principles.
 
@@ -45,16 +47,14 @@ If the file does not exist, it asks which disciplines you care about and what la
 ```json
 {
   "onboardingComplete": true,
-  "disciplines": ["心理学", "理财"],
-  "language": "中文"
+  "disciplines": ["psychology", "personal finance"],
+  "language": "English"
 }
 ```
 
 ## Default Disciplines
 
-```text
-心理学, 理财, 医学, 营养学, 哲学, 美学, 商业管理, 产品设计, 社会学, 传播学, 教育学
-```
+Psychology, personal finance, medicine, nutrition, philosophy, aesthetics, business management, product design, sociology, communication studies, education.
 
 ## License
 
