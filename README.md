@@ -1,8 +1,8 @@
 # Learn Something
 
-A tiny Codex skill for learning something while you wait.
+A tiny agent skill for learning something while you wait.
 
-When your agent is busy, or when you are just a little bored, invoke this skill and get one short story that quietly teaches an obscure, useful, counterintuitive idea. It is meant for the small idle moments between bigger tasks: a lightweight way to pick up a principle you probably would not meet in an intro class.
+When your AI agent is busy, or when you are just a little bored, invoke this skill and get one short story that quietly teaches an obscure, useful, counterintuitive idea. It is meant for the small idle moments between bigger tasks: a lightweight way to pick up a principle you probably would not meet in an intro class.
 
 ## Who This Is For
 
@@ -10,17 +10,23 @@ Use this when you are waiting for an agent response, watching a long command run
 
 The skill randomly picks from your preferred disciplines, tells a story without naming the principle first, then reveals the principle and explains why the story illustrates it.
 
-Keywords: Codex skill, AI skill, prompt skill, learning while waiting, idle learning, story-based learning, counterintuitive ideas, obscure principles.
+It is designed to be portable across mainstream coding/agent environments that can load Markdown-based skills or custom instructions, including Codex, Claude Code, OpenClaw, Hermes, and similar agents.
+
+Keywords: agent skill, AI skill, prompt skill, Codex skill, Claude Code skill, OpenClaw skill, Hermes skill, learning while waiting, idle learning, story-based learning, counterintuitive ideas, obscure principles.
 
 ## Install
 
-Copy the skill folder into your Codex skills directory:
+Use the skill folder with any agent that supports local skills, plugins, or reusable instruction bundles.
+
+For Codex, copy the skill folder into your skills directory:
 
 ```bash
 cp -R learn-something ~/.codex/skills/learn-something
 ```
 
-Then start a new Codex session and invoke:
+For other agents, install or reference `learn-something/SKILL.md` using that agent's skill, plugin, or custom-instruction mechanism.
+
+Then start a new agent session and invoke:
 
 ```text
 $learn-something
