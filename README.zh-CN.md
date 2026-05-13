@@ -21,6 +21,10 @@
 
 关键词：agent skill、AI skill、prompt skill、Codex skill、Claude Code skill、OpenClaw skill、Hermes skill、等待时学习、碎片学习、故事化学习、反直觉概念、冷门原则。
 
+## 示例
+
+![中文输出示例](examples/zh.png)
+
 ## 安装
 
 任何支持本地 skills、plugins 或可复用 instruction bundles 的 agent 都可以使用这个 skill 文件夹。

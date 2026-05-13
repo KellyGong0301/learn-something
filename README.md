@@ -16,6 +16,10 @@ It is designed to be portable across mainstream coding and agent environments th
 
 Keywords: agent skill, AI skill, prompt skill, Codex skill, Claude Code skill, OpenClaw skill, Hermes skill, learning while waiting, idle learning, story-based learning, counterintuitive ideas, obscure principles.
 
+## Example
+
+![Example output in English](examples/en.png)
+
 ## Install
 
 Use the skill folder with any agent that supports local skills, plugins, or reusable instruction bundles.
